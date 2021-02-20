@@ -1,7 +1,7 @@
 # icLibFuzzer
 
 
-- [Support Verion](#Support Verion)
+- [Support Version](#Support-Version)
 - [Install](#Install)
 - [Usage](#Usage)
 - [Error](#Error)
