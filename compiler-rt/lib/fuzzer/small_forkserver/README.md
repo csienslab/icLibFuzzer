@@ -1,0 +1,2 @@
+- compile everything
+  - ./compile.sh

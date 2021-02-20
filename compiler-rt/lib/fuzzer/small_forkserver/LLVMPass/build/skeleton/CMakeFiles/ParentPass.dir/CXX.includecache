@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/Parent.cpp
+llvm/Pass.h
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/llvm/Pass.h
+llvm/IR/Module.h
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/llvm/IR/Module.h
+llvm/IR/Function.h
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/llvm/IR/Function.h
+llvm/Support/raw_ostream.h
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/llvm/Support/raw_ostream.h
+llvm/IR/LegacyPassManager.h
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/llvm/IR/LegacyPassManager.h
+llvm/IR/Operator.h
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/llvm/IR/Operator.h
+llvm/IR/IRBuilder.h
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/llvm/IR/IRBuilder.h
+llvm/Transforms/IPO/PassManagerBuilder.h
+/home/llvm-project/compiler-rt/lib/fuzzer/small_forkserver/LLVMPass/skeleton/llvm/Transforms/IPO/PassManagerBuilder.h
+

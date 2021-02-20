@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared  -o libForkserverPass.so CMakeFiles/ForkserverPass.dir/Forkserver.cpp.o   -L/usr/local/lib 
